@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-210-fix-api-make-memo-generation-and-insert-a",
+    "fix/issue-214-test-api-cover-checkout-token-tampering-expiry",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-210-fix-api-make-memo-generation-and-insert-a": "main",
+    "fix/issue-214-test-api-cover-checkout-token-tampering-expiry": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-210-fix-api-make-memo-generation-and-insert-a",
+    "fix/issue-214-test-api-cover-checkout-token-tampering-expiry",
+    "origin"
+  ]
+}
